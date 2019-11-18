@@ -6,6 +6,6 @@ Type one is a water compartment.
 Type two is a soil with seed compartment.
 Type three is an empty compartment, roof only.
 Type four is a hollow compartment.
-There might be reason to have a type five cpompartment with floor only.
+There might be reason to have a type five compartment with floor only.
 The intention is to create moist micro climate for the seeds to grow and small animals to live.
 Growth dependent on how much water that can be captured from ground and air.
